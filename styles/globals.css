@@ -14,3 +14,34 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.header {
+  background-color: red;
+}
+
+.navbar-brand {
+  margin-left: 1rem;
+  margin-right: auto;
+  font-weight: bolder;
+}
+
+.navbar {
+  margin-bottom: 2rem;
+}
+
+.navbar-expand-lg {
+  justify-content: space-between;
+}
+/* .form-label {
+  margin-left: 2rem;
+}
+
+.form-control {
+  padding-right: 2rem;
+  margin-left: 2rem;
+  margin-bottom: 2rem;
+} */
+
+/* .button {
+  margin-left: 2rem;
+} */
